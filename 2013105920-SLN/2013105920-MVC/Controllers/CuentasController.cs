@@ -1,0 +1,136 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.Entity;
+using System.Linq;
+using System.Net;
+using System.Web;
+using System.Web.Mvc;
+using _2013105920_ENT.Entities;
+using _2013105920_PER;
+using _2013105920_ENT.IRepositories;
+
+namespace _2013105920_MVC.Controllers
+{
+    public class CuentasController : Controller
+    {
+        // private CajeroDbContext db = new CajeroDbContext();
+        private readonly IUnityOfWork _UnityOfWork;
+
+
+        public CuentasController(IUnityOfWork unityOfWork)
+        {
+            _UnityOfWork = unityOfWork;
+        }
+
+        // GET: Cuentas
+        public ActionResult Index()
+        {
+            return View(_UnityOfWork.Cuentas.GetAll());
+        }
+
+        // GET: Cuentas/Details/5
+        public ActionResult Details(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Cuenta cuenta = _UnityOfWork.Cuentas.Get(id);
+            if (cuenta == null)
+            {
+                return HttpNotFound();
+            }
+            return View(cuenta);
+        }
+
+        // GET: Cuentas/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: Cuentas/Create
+        // Para protegerse de ataques de publicación excesiva, habilite las propiedades específicas a las que desea enlazarse. Para obtener 
+        // más información vea https://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create([Bind(Include = "CuentaId,Nombres,Apellidos,NumeroCuenta,pin,saldo")] Cuenta cuenta)
+        {
+            if (ModelState.IsValid)
+            {
+                _UnityOfWork.Cuentas.Add(cuenta);
+                _UnityOfWork.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View(cuenta);
+        }
+
+        // GET: Cuentas/Edit/5
+        public ActionResult Edit(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Cuenta cuenta = _UnityOfWork.Cuentas.Get(id);
+            if (cuenta == null)
+            {
+                return HttpNotFound();
+            }
+            return View(cuenta);
+        }
+
+        // POST: Cuentas/Edit/5
+        // Para protegerse de ataques de publicación excesiva, habilite las propiedades específicas a las que desea enlazarse. Para obtener 
+        // más información vea https://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit([Bind(Include = "CuentaId,Nombres,Apellidos,NumeroCuenta,pin,saldo")] Cuenta cuenta)
+        {
+            if (ModelState.IsValid)
+            {
+                _UnityOfWork.StateModified(cuenta);
+                _UnityOfWork.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(cuenta);
+        }
+
+        // GET: Cuentas/Delete/5
+        public ActionResult Delete(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            Cuenta cuenta = _UnityOfWork.Cuentas.Get(id);
+            if (cuenta == null)
+            {
+                return HttpNotFound();
+            }
+            return View(cuenta);
+        }
+
+        // POST: Cuentas/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id)
+        {
+            Cuenta cuenta = _UnityOfWork.Cuentas.Get(id);
+            _UnityOfWork.Cuentas.Remove(cuenta);
+            _UnityOfWork.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                _UnityOfWork.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+    }
+}

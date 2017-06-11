@@ -1,0 +1,64 @@
+﻿@model IEnumerable<_2013105920_ENT.Entities.Retiro>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Atm.Mensaje)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BaseDatos.Administrador)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dispensadorefectivo.DispensadorefectivoId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pantalla.PantallaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Teclado.Marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Monto)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Atm.Mensaje)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BaseDatos.Administrador)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dispensadorefectivo.DispensadorefectivoId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pantalla.PantallaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Teclado.Marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Monto)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.RetiroId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.RetiroId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.RetiroId })
+        </td>
+    </tr>
+}
+
+</table>

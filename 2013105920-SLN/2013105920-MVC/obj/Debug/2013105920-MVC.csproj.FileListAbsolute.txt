@@ -1,0 +1,190 @@
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\obj\Debug\2013105920-MVC.csprojResolveAssemblyReference.cache
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\csc.exe
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\csc.exe.config
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\csc.rsp
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\csi.exe
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\csi.rsp
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\System.AppContext.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\vbc.exe
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\vbc.exe.config
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\vbc.rsp
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\2013105920-MVC.dll.config
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\2013105920-MVC.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\2013105920-MVC.pdb
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\2013105920-ENT.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\2013105920-PER.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Antlr3.Runtime.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\EntityFramework.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\EntityFramework.SqlServer.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.Web.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.ApplicationInsights.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Newtonsoft.Json.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Ninject.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Ninject.Web.Common.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Ninject.Web.Mvc.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Net.Http.Formatting.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Helpers.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Http.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Mvc.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Optimization.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Razor.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.Deployment.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.Razor.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\WebActivatorEx.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\WebApiContrib.IoC.Ninject.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\WebGrease.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\2013105920-ENT.pdb
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\2013105920-PER.pdb
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\2013105920-PER.dll.config
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\EntityFramework.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\EntityFramework.SqlServer.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Ninject.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Ninject.Web.Common.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Ninject.Web.Mvc.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Net.Http.Formatting.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Http.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Helpers.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Mvc.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Optimization.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.Razor.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.Deployment.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.Razor.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Antlr3.Runtime.pdb
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Newtonsoft.Json.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.ApplicationInsights.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.Web.xml
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\es\System.Web.Helpers.resources.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\es\System.Web.Optimization.resources.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\es\System.Web.WebPages.resources.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\obj\Debug\2013105920-MVC.dll
+D:\Proyectos de Pogra\Proyecto Cajero\2013105920-SLN\2013105920-MVC\obj\Debug\2013105920-MVC.pdb
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\csc.exe
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\csc.exe.config
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\csc.rsp
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\csi.exe
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\csi.rsp
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\System.AppContext.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\vbc.exe
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\vbc.exe.config
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\vbc.rsp
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\2013105920-MVC.dll.config
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\2013105920-MVC.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\2013105920-MVC.pdb
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\2013105920-ENT.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\2013105920-PER.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Antlr3.Runtime.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\EntityFramework.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.Web.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Newtonsoft.Json.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Ninject.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Ninject.Web.Common.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Helpers.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Http.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Mvc.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Optimization.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Razor.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\WebActivatorEx.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\WebGrease.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\2013105920-ENT.pdb
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\2013105920-PER.pdb
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\2013105920-PER.dll.config
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\EntityFramework.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Ninject.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Ninject.Web.Common.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Http.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Helpers.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Mvc.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Optimization.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.Razor.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Newtonsoft.Json.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\Microsoft.AI.Web.xml
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\EntityFramework.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\obj\Debug\2013105920-MVC.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\obj\Debug\2013105920-MVC.dll
+C:\Users\KEVIN-ALVIN\Desktop\MIL ERRORES\2013105920-SLN\2013105920-MVC\obj\Debug\2013105920-MVC.pdb

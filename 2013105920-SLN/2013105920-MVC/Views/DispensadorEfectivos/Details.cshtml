@@ -1,0 +1,43 @@
+﻿@model _2013105920_ENT.Entities.DispensadorEfectivo
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>DispensadorEfectivo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Atm.Mensaje)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atm.Mensaje)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Retiro.Monto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Retiro.Monto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contador)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contador)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.DispensadorefectivoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
